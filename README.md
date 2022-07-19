@@ -1,6 +1,8 @@
-# Tayyabar-Rahman-Khan
+[![MasterHead]https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+
 <h1 align="center">Hi 👋, I'm Tayyabar Rahman Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align = "right" alt = "coding" width= "400" src= "https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabar-rahman-khan&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabar-rahman-khan" /> </p>
 
